@@ -101,13 +101,13 @@ The dataset was cleaned and transformed using **Python (Pandas)**:
 ## 📷 Dashboard Screenshots
 
 ### Executive Summary
-![Executive Summary](./Images/executive summary.png)
+![Executive Summary](executive%20summary.png)
 
 ### Patient & Financial Analysis
-![Patient & Financial Analysis](./Images/patient financial analysis.png)
+![Patient & Financial Analysis](patient%20&%20financial%20analysis)
 
 ### Department Performance
-![Department Performance](./Images/department performance.png)
+![Department Performance](department%20performance.png)
 ---
 
 ## 📂 Project Structure
