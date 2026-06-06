@@ -101,7 +101,7 @@ The dataset was cleaned and transformed using **Python (Pandas)**:
 ## 📷 Dashboard Screenshots
 
 ### Executive Summary
-![Executive Summary](executive_summary.png)
+executive_summary.png
 
 ### Patient & Financial Analysis
 ![Patient Financial Analysis](patient_financial_analysis.png)
