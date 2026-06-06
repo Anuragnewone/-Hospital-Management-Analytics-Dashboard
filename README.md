@@ -104,7 +104,7 @@ The dataset was cleaned and transformed using **Python (Pandas)**:
 ![Executive Summary](executive%20summary.png)
 
 ### Patient & Financial Analysis
-![Patient & Financial Analysis](patient%20&%20financial%20analysis)
+![Patient & Financial Analysis](patient%20&%20financial%20analysis.png)
 
 ### Department Performance
 ![Department Performance](department%20performance.png)
@@ -160,7 +160,7 @@ Aspiring Business Analyst | Data Analyst
 
 📧 av5396618@gmail.com
 
-🔗 LinkedIn: www.linkedin.com/in/anurag-verma-data
+🔗 LinkedIn: www.linkedin.com/in/anurag-verma-4788b3385
 
 ---
 ⭐ If you found this project useful, don't forget to Star the repository!
